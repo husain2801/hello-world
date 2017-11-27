@@ -1,3 +1,0 @@
-Test file from local
-added 2nd line from server
-added 3rd line from local
