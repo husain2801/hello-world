@@ -1,3 +1,7 @@
 hello-world
 2nd line added in hello-world from local
+<<<<<<< Updated upstream
 4th line added in hello-world from local
+=======
+3rd line added in hello-world from local
+>>>>>>> Stashed changes
